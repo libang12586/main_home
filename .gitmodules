@@ -1,0 +1,3 @@
+[submodule "sub_module"]
+	path = sub_module
+	url = git@github.com:libang12586/home2.git
